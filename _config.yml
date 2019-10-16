@@ -1,0 +1,5 @@
+prose:
+  ignore:
+    - index.html
+    - _config.yml
+    - pdfs
